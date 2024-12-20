@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IT\\code\\kmms_progg\\library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B28C3-8710-45F2-AEFF-5420F6440038}|library.vcxproj|c:\\IT\\code\\kmms_progg\\library\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F1B28C3-8710-45F2-AEFF-5420F6440038}|library.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B28C3-8710-45F2-AEFF-5420F6440038}|library.vcxproj|c:\\IT\\code\\kmms_progg\\library\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F1B28C3-8710-45F2-AEFF-5420F6440038}|library.vcxproj|solutionrelative:functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B28C3-8710-45F2-AEFF-5420F6440038}|library.vcxproj|c:\\IT\\code\\kmms_progg\\library\\menu.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F1B28C3-8710-45F2-AEFF-5420F6440038}|library.vcxproj|solutionrelative:menu.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B28C3-8710-45F2-AEFF-5420F6440038}|library.vcxproj|c:\\IT\\code\\kmms_progg\\library\\functions.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F1B28C3-8710-45F2-AEFF-5420F6440038}|library.vcxproj|solutionrelative:functions.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "functions.cpp",
+              "DocumentMoniker": "c:\\IT\\code\\kmms_progg\\library\\functions.cpp",
+              "RelativeDocumentMoniker": "functions.cpp",
+              "ToolTip": "c:\\IT\\code\\kmms_progg\\library\\functions.cpp",
+              "RelativeToolTip": "functions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T20:49:09.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "functions.hpp",
+              "DocumentMoniker": "c:\\IT\\code\\kmms_progg\\library\\functions.hpp",
+              "RelativeDocumentMoniker": "functions.hpp",
+              "ToolTip": "c:\\IT\\code\\kmms_progg\\library\\functions.hpp",
+              "RelativeToolTip": "functions.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T20:47:57.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu.hpp",
+              "DocumentMoniker": "c:\\IT\\code\\kmms_progg\\library\\menu.hpp",
+              "RelativeDocumentMoniker": "menu.hpp",
+              "ToolTip": "c:\\IT\\code\\kmms_progg\\library\\menu.hpp",
+              "RelativeToolTip": "menu.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T20:21:16.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "c:\\IT\\code\\kmms_progg\\library\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "c:\\IT\\code\\kmms_progg\\library\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T20:07:37.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

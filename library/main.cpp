@@ -1,24 +1,30 @@
 ﻿#include <clocale>
-#include <cstdlib>
 #include <iostream>
+
+#include "menu.hpp"
+#include "functions.hpp"
 
 int main() {
 	std::setlocale(LC_ALL, "");
 
+	lib::actions read = { "1 - Русские писатели", lib::read };
+	lib::actions exit = { "0 - Завершить чтение", lib::exit };
+
+	lib::actions* children[] = { &exit, &read };
+	const int size = sizeof(children) / sizeof(children[0]);
+
 	int input_user;
 	do {
 		std::cout << "Библиотека приветствует вас, Илья Владимирович!" << std::endl;
-		std::cout << "1 - Русские писатели" << std::endl;
-		std::cout << "0 - Завершить чтение" << std::endl;
+		for (int i = 1; i < size; ++i) {
+			std::cout << children[i]->title << std::endl;
+		}
+		std::cout << children[0]->title << std::endl;
 		std::cout << "Ваш выбор > ";
 
 		std::cin >> input_user;
-		if (input_user == 1) {
-			//TODO
-		}
-		else if (input_user == 0) {
-			exit(0);
-		}
+		children[input_user]->func();
+
 		std::cout << std::endl;
 	} while (true);
 
