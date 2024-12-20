@@ -1,7 +1,5 @@
-build_*/
-lib/
+.*
+!.gitignore
 
-*.exe
-*.ii
-*.s
-*.o
+.vs/
+x64/
